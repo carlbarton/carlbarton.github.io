@@ -1,5 +1,9 @@
 # Carl Barton - Online CV
 
+## Copyright and License
+Source code, including any modifications to the original project, are made available under the MIT License. If you would create your own version, I suggest forking from the original Start Bootstrap Resume repo. 
+Content, including text and images, are copyrighted to Carl Barton and may not be reproduced without permission.
+
 ## Forked from [Start Bootstrap - Resume](https://github.com/BlackrockDigital/startbootstrap-resume) 
 
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
@@ -21,7 +25,8 @@ Start Bootstrap was created by and is maintained by **[David Miller](http://davi
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-## Copyright and License
-
 ### Start Bootstrap - Resume
 Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
+
+### Carl Barton - Resume
+Copyright 2019 Carl Barton.
