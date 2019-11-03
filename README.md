@@ -2,6 +2,7 @@
 
 ## Copyright and License
 Source code, including any modifications to the original project, are made available under the MIT License. If you would create your own version, I suggest forking from the original Start Bootstrap Resume repo. 
+
 Content, including text and images, are copyrighted to Carl Barton and may not be reproduced without permission.
 
 ## Forked from [Start Bootstrap - Resume](https://github.com/BlackrockDigital/startbootstrap-resume) 
